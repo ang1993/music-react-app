@@ -1,0 +1,3 @@
+export const POST_SPOTIFY = "POST_SPOTIFY"
+export const POST_SPOTIFY_OK = "POST_SPOTIFY_OK"
+export const POST_SPOTIFY_FAIL = "POST_SPOTIFY_FAIL"
